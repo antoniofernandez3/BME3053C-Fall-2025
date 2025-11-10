@@ -13,5 +13,4 @@ __pycache__/
 *.lock
 =======
 *.lock
-study-guides/
->>>>>>> 34aa157 (added analysis.ipynb and new lesson)
+node_modules/
